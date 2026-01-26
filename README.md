@@ -5,15 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Creative Studio - Minimal Design</title>
     <link rel="stylesheet" href="tooplate-graphite-creative.css">
-<!--
 
-Tooplate 2156 Graphite Creative
-
-https://www.tooplate.com/view/2156-graphite-creative
-
-Free HTML CSS Template
-
--->
 </head>
 <body>
     <!-- HEADER -->
@@ -40,8 +32,7 @@ Free HTML CSS Template
             </button>
         </div>
     </header>
-
-    <!-- MAIN CONTENT -->
+	<!-- MAIN CONTENT -->
     <main>
         <!-- HERO SECTION -->
         <section id="home" class="section-hero">
@@ -70,8 +61,7 @@ Free HTML CSS Template
                 </div>
             </div>
         </section>
-
-        <!-- SERVICES SECTION -->
+ <!-- SERVICES SECTION -->
         <section id="services" class="section-services">
             <div class="services-container">
                 <h2 class="section-title">Our Services</h2>
@@ -109,8 +99,7 @@ Free HTML CSS Template
                 </div>
             </div>
         </section>
-
-        <!-- PORTFOLIO SECTION -->
+   <!-- PORTFOLIO SECTION -->
         <section id="portfolio" class="section-portfolio">
             <div class="portfolio-container">
                 <h2 class="section-title">Recent Work</h2>
@@ -220,8 +209,7 @@ Free HTML CSS Template
                 </div>
             </div>
         </section>
-
-        <!-- ABOUT SECTION -->
+  <!-- ABOUT SECTION -->
         <section id="about" class="section-about">
             <h2 class="section-title">About Us</h2>
             <div class="about-container">
@@ -247,8 +235,7 @@ Free HTML CSS Template
                 </div>
             </div>
         </section>
-
-        <!-- CONTACT SECTION -->
+  <!-- CONTACT SECTION -->
         <section id="contact" class="section-contact">
             <div class="contact-container">
                 <div class="contact-info">
@@ -292,8 +279,7 @@ Free HTML CSS Template
                 </form>
             </div>
         </section>
-
-        <!-- PORTFOLIO MODAL -->
+   <!-- PORTFOLIO MODAL -->
         <div id="portfolioModal" class="portfolio-modal">
             <div class="modal-content">
                 <button class="modal-close" onclick="closePortfolioModal()">&times;</button>
@@ -308,8 +294,7 @@ Free HTML CSS Template
             </div>
         </div>
     </main>
-
-    <!-- FOOTER -->
+  <!-- FOOTER -->
     <footer>
         <p>&copy; 2026 Creative Studio. All rights reserved. | Designed by <a href="https://www.tooplate.com/" target="_blank" rel="nofollow">Tooplate</a></p>
     </footer>
