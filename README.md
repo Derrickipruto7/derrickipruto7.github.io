@@ -21,9 +21,11 @@
 </p>
 
 ---
+<div style="background-color:#0b1c2d; padding:30px; border-radius:14px; margin-top:20px;">
 
-## 🏠 Home
+<h2 style="color:#ffffff;">🏠 Home</h2>
 
+<p style="color:#d6e4f0; font-size:16px;">
 I am a **GIS, Remote Sensing, and Earth Observation specialist** with strong expertise in **spatial analysis, geospatial programming, cartography, and machine learning**.  
 My work focuses on transforming **satellite imagery and spatial datasets** into actionable intelligence for environmental monitoring, land-use planning, and urban analysis.
 
@@ -33,6 +35,9 @@ My work focuses on transforming **satellite imagery and spatial datasets** into 
 - Machine Learning for Geospatial Applications  
 - Web Mapping & Geo-Visualization  
 - Research-driven, scalable spatial solutions  
+</p>
+
+</div>
 
 
 <p align="center">
@@ -43,7 +48,21 @@ My work focuses on transforming **satellite imagery and spatial datasets** into 
 
 ---
 
-## 📁 Projects
+
+<table width="100%" bgcolor="#0b1c2d" style="border-radius:14px; margin-top:25px;">
+<tr>
+<td>
+
+<h2 style="color:white;">📁 Projects</h2>
+
+<p style="color:#d6e4f0;">
+Land Use / Land Cover classification, EO dashboards, spatial ML models,
+and geospatial automation projects.
+</p>
+
+</td>
+</tr>
+</table>
 
 🚧 *Selected professional and research projects will be highlighted here.*
 ### 🛰️ Land Use / Land Cover Classification
@@ -68,7 +87,17 @@ My work focuses on transforming **satellite imagery and spatial datasets** into 
 
 ---
 
-## 🛠️ Skills
+<div style="background-color:#102a43; padding:30px; border-radius:14px; margin-top:25px;">
+
+<h2 style="color:#ffffff;">🛠️ Skills</h2>
+
+<p style="color:#cfd8dc;"><strong>GIS & Remote Sensing</strong></p>
+
+<img src="assets/arcgis.png" height="28"/>
+<img src="assets/qgis.png" height="28"/>
+
+</div>
+
 
 ### 🗺️ GIS & Remote Sensing
 <p>
