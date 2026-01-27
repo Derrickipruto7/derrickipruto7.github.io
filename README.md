@@ -1,6 +1,8 @@
 <!-- ========================= -->
 <!--        PROFILE BANNER     -->
 <!-- ========================= -->
+<a id="top"></a>
+
 <p align="center">
   <img src="assets/gis-banner.jpg" alt="GIS & Earth Observation Banner" width="20%"/>
 </p>
@@ -13,12 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="## 🏠 Home" class="active">Home</a> •
-  <a href="## 🚀 Projects">Projects</a> •
-  <a href="## 🛠 Skills">Skills</a> •
-  <a href="## 🎓 Education">Education</a> •
-  <a href="## 📬 Contact">Contact</a>
+  <a href="#home">Home</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#education">Education</a> •
+  <a href="#contact">Contact</a>
 </p>
+
 
 ---
 ## 🏠 Home
