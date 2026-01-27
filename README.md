@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="#home" class="active">Home</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#education">Education</a> •
-  <a href="#contact">Contact</a>
+  <a href="## 🏠 Home" class="active">Home</a> •
+  <a href="## 🚀 Projects">Projects</a> •
+  <a href="## 🛠 Skills">Skills</a> •
+  <a href="## 🎓 Education">Education</a> •
+  <a href="## 📬 Contact">Contact</a>
 </p>
 
 ---
@@ -48,6 +48,7 @@ My work focuses on transforming **satellite imagery and spatial datasets** into 
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 ---
+
 ## 🚀 Projects
 
 <table width="100%" bgcolor="#0b1c2d" style="border-radius:14px; margin-top:25px;">
