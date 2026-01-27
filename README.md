@@ -2,10 +2,10 @@
 <!--        PROFILE BANNER     -->
 <!-- ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/gis-banner.png" alt="GIS & Earth Observation Banner" width="100%"/>
+  <img src="assets/gis-banner.jpg" alt="GIS & Earth Observation Banner" width="20%"/>
 </p>
 
-<h1 align="center">Derrick (Dero)</h1>
+<h1 align="center">Derrick Kipruto Totoitich</h1>
 <h3 align="center">GIS • Remote Sensing • Earth Observation • Spatial Data Science</h3>
 
 <p align="center">
@@ -34,17 +34,26 @@ My work focuses on transforming **satellite imagery and spatial datasets** into 
 - Web Mapping & Geo-Visualization  
 - Research-driven, scalable spatial solutions  
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90"/>
+  <img src="assets/satellite-scan.gif" width="180"/>
+
 </p>
+
 
 ---
 
 ## 📁 Projects
 
 🚧 *Selected professional and research projects will be highlighted here.*
+### 🛰️ Land Use / Land Cover Classification
+<p>
+  <img src="assets/lulc-classification.gif" width="300"/>
+</p>
+
+- Machine Learning–based classification  
+- Google Earth Engine + Python  
+- Multi-temporal satellite imagery  
 
 **Planned featured work includes:**
 - 🌍 Land Use / Land Cover (LULC) Classification using Machine Learning  
@@ -97,9 +106,7 @@ My work focuses on transforming **satellite imagery and spatial datasets** into 
 
 **Bachelor of Science (BSc) – Geospatial Information Science & Remote Sensing**  
 Dedan Kimathi University of Technology, Nyeri, Kenya  
-
-**Bachelor of Architecture (B.Arch)**  
-Strong foundation in spatial design, planning, and analytical thinking  
+ 
 
 **Core Academic Areas**
 - Remote Sensing & Earth Observation  
@@ -112,8 +119,8 @@ Strong foundation in spatial design, planning, and analytical thinking
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=derrickipruto7&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derrickipruto7&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -126,13 +133,13 @@ I’m interested in:
 - Spatial data science collaborations  
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:derrickipruto@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Derrickipruto7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
