@@ -21,9 +21,9 @@
 </p>
 
 ---
+## 🏠 Home
 <div style="background-color:#0b1c2d; padding:30px; border-radius:14px; margin-top:20px;">
 
-<h2 style="color:#ffffff;">🏠 Home</h2>
 
 <p style="color:#d6e4f0; font-size:16px;">
 I am a **GIS, Remote Sensing, and Earth Observation specialist** with strong expertise in **spatial analysis, geospatial programming, cartography, and machine learning**.  
@@ -40,20 +40,21 @@ My work focuses on transforming **satellite imagery and spatial datasets** into 
 </div>
 
 
+
 <p align="center">
   <img src="assets/satellite-scan.gif" width="180"/>
 
 </p>
 
-
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 ---
-
+## 🚀 Projects
 
 <table width="100%" bgcolor="#0b1c2d" style="border-radius:14px; margin-top:25px;">
 <tr>
 <td>
 
-<h2 style="color:white;">📁 Projects</h2>
+
 
 <p style="color:#d6e4f0;">
 Land Use / Land Cover classification, EO dashboards, spatial ML models,
@@ -85,16 +86,16 @@ and geospatial automation projects.
   <em>Each project will include data sources, methodology, results, and visual outputs.</em>
 </p>
 
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
 ---
-
+## 🛠 Skills
 <div style="background-color:#102a43; padding:30px; border-radius:14px; margin-top:25px;">
-
-<h2 style="color:#ffffff;">🛠️ Skills</h2>
 
 <p style="color:#cfd8dc;"><strong>GIS & Remote Sensing</strong></p>
 
-<img src="assets/arcgis.png" height="28"/>
-<img src="assets/qgis.png" height="28"/>
+<img src="assets/arcgis.jpg" height="28"/>
+<img src="assets/qgis.jpg" height="28"/>
 
 </div>
 
@@ -121,6 +122,7 @@ and geospatial automation projects.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cartography-4CAF50?style=for-the-badge"/>
 </p>
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ### 🤖 Spatial Analysis & Modeling
 - Spatial Statistics & Geoprocessing  
@@ -130,6 +132,7 @@ and geospatial automation projects.
 - Spatial Decision Support Systems  
 
 ---
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ## 🎓 Education
 
@@ -144,15 +147,8 @@ Dedan Kimathi University of Technology, Nyeri, Kenya
 - Machine Learning for Spatial Data  
 
 ---
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derrickipruto7&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derrickipruto7&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 📬 Contact
 
@@ -178,3 +174,4 @@ I’m interested in:
 <p align="center">
   <em>“Spatial data tells a story — I translate it into insight.”</em>
 </p>
+<p align="right"><a href="#top">⬆ Back to top</a></p>
