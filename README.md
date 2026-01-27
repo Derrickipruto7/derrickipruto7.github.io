@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="#home">Home</a> •
+  <a href="#home" class="active">Home</a> •
   <a href="#projects">Projects</a> •
   <a href="#skills">Skills</a> •
   <a href="#education">Education</a> •
