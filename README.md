@@ -67,7 +67,7 @@ and geospatial automation projects.
 
 🚧 *Selected professional and research projects will be highlighted here.*
 ### 🛰️ Land Use / Land Cover Classification
-<p>
+<p align="center">
   <img src="assets/lulc-classification.gif" width="300"/>
 </p>
 
@@ -91,15 +91,6 @@ and geospatial automation projects.
 ---
 ## 🛠 Skills
 <div style="background-color:#102a43; padding:30px; border-radius:14px; margin-top:25px;">
-
-<p style="color:#cfd8dc;"><strong>GIS & Remote Sensing</strong></p>
-
-<img src="assets/arcgis.jpg" height="28"/>
-<img src="assets/qgis.jpg" height="28"/>
-
-</div>
-
-
 ### 🗺️ GIS & Remote Sensing
 <p>
   <img src="https://img.shields.io/badge/ArcGIS%20Pro-0078D4?style=for-the-badge&logo=esri&logoColor=white"/>
@@ -108,6 +99,10 @@ and geospatial automation projects.
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white"/>
   <img src="https://img.shields.io/badge/GeoPortal-1E88E5?style=for-the-badge"/>
 </p>
+<p align="center">
+<img src="assets/qgis.png" height="200"/>
+</p>
+</div>
 
 ### 💻 Programming & Data Science
 <p>
@@ -116,12 +111,21 @@ and geospatial automation projects.
   <img src="https://img.shields.io/badge/JavaScript%20(JSON)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+
+<p align="center">
+<img src="assets/arcgis.jpg" height="200"/>
+</p>
 ### 🌐 Web & Visualization
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cartography-4CAF50?style=for-the-badge"/>
 </p>
+<p align="center">
+  <img src="assets/urban-analysis.gif" width="300"/>
+
+</p>
+
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ### 🤖 Spatial Analysis & Modeling
