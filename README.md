@@ -1,30 +1,65 @@
-<!-- Profile Banner -->
+<!-- ========================= -->
+<!--        PROFILE BANNER     -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/your-username/banner-placeholder/main/gis-banner.png" alt="GIS & Earth Observation Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/gis-banner.png" alt="GIS & Earth Observation Banner" width="100%"/>
 </p>
 
-<h1 align="center">🌍 Hi, I'm Derrick Kipruto</h1>
+<h1 align="center">Derrick (Dero)</h1>
 <h3 align="center">GIS • Remote Sensing • Earth Observation • Spatial Data Science</h3>
 
 <p align="center">
-  <em>Turning spatial data into actionable insights</em>
+  <em>Delivering data-driven insights through geospatial intelligence</em>
+</p>
+
+<p align="center">
+  <a href="#home">Home</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#education">Education</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## 🛰️ About Me
+## 🏠 Home
 
-I’m a **GIS, Remote Sensing, and Earth Observation expert** with strong experience in **spatial analysis, geospatial programming, and machine learning**.  
-My work focuses on extracting meaningful patterns from **satellite imagery, spatial datasets, and geospatial models** to support decision-making across environmental, urban, and land-use applications.
+I am a **GIS, Remote Sensing, and Earth Observation specialist** with strong expertise in **spatial analysis, geospatial programming, cartography, and machine learning**.  
+My work focuses on transforming **satellite imagery and spatial datasets** into actionable intelligence for environmental monitoring, land-use planning, and urban analysis.
 
-- 🌐 GIS & Spatial Analysis Specialist  
-- 🧠 Machine Learning for Geospatial Data  
-- 🗺️ Cartography & Geo-Visualization  
-- 🧪 Research-driven & solution-oriented  
+**Professional focus:**
+- Advanced GIS & Spatial Analysis  
+- Earth Observation & Satellite Data Processing  
+- Machine Learning for Geospatial Applications  
+- Web Mapping & Geo-Visualization  
+- Research-driven, scalable spatial solutions  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90"/>
+</p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 📁 Projects
+
+🚧 *Selected professional and research projects will be highlighted here.*
+
+**Planned featured work includes:**
+- 🌍 Land Use / Land Cover (LULC) Classification using Machine Learning  
+- 🛰️ Google Earth Engine EO Applications  
+- 🌱 Environmental & Climate Monitoring Dashboards  
+- 🏙️ Urban Spatial Analysis & Suitability Modeling  
+- 📊 Cartographic & Interactive Web Maps  
+
+<p align="center">
+  <em>Each project will include data sources, methodology, results, and visual outputs.</em>
+</p>
+
+---
+
+## 🛠️ Skills
 
 ### 🗺️ GIS & Remote Sensing
 <p>
@@ -49,21 +84,61 @@ My work focuses on extracting meaningful patterns from **satellite imagery, spat
   <img src="https://img.shields.io/badge/Cartography-4CAF50?style=for-the-badge"/>
 </p>
 
-### 🤖 Spatial Modeling & Analysis
-- Machine Learning Models (classification, prediction, clustering)
-- Spatial Statistics & Spatial Analysis
-- Land Use / Land Cover (LULC)
-- Change Detection
-- Time-Series Analysis (EO data)
+### 🤖 Spatial Analysis & Modeling
+- Spatial Statistics & Geoprocessing  
+- Machine Learning (Classification, Prediction, Clustering)  
+- Land Use / Land Cover Analysis  
+- Change Detection & Time-Series EO Analysis  
+- Spatial Decision Support Systems  
 
 ---
 
-## 📊 Featured Skills
+## 🎓 Education
 
-```text
-✔ Satellite Image Processing
-✔ Geospatial Data Analysis
-✔ Spatial Modeling & ML
-✔ Web Mapping & Geo-Visualization
-✔ Cartographic Design
-✔ Research & Technical Documentation
+**Bachelor of Science (BSc) – Geospatial Information Science & Remote Sensing**  
+Dedan Kimathi University of Technology, Nyeri, Kenya  
+
+**Bachelor of Architecture (B.Arch)**  
+Strong foundation in spatial design, planning, and analytical thinking  
+
+**Core Academic Areas**
+- Remote Sensing & Earth Observation  
+- Spatial Modeling & GIS Automation  
+- Cartography & Visualization  
+- Machine Learning for Spatial Data  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📬 Contact
+
+I’m interested in:
+- GIS & Remote Sensing roles  
+- Earth Observation research & consulting  
+- Spatial data science collaborations  
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Spatial data tells a story — I translate it into insight.”</em>
+</p>
