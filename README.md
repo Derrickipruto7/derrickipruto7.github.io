@@ -7,7 +7,7 @@ Delivering data-driven insights through geospatial intelligence.
 ---
 
 ## 🌐 Live Website
-👉 https://YOUR_USERNAME.github.io/YOUR_REPO/
+👉 https://derrickipruto7.github.io/YOUR_REPO/
 
 ---
 
@@ -25,9 +25,23 @@ Delivering data-driven insights through geospatial intelligence.
 - Python, R, JavaScript
 - GitHub Pages & Jekyll
 
+## 🤖 Spatial Analysis & Modeling
+
+Spatial Statistics & Geoprocessing
+Machine Learning (Classification, Prediction, Clustering)
+Land Use / Land Cover Analysis
+Change Detection & Time-Series EO Analysis
+Spatial Decision Support Systems
+
 ---
 
 ## 📬 Contact
+
+I’m interested in:
+
+GIS & Remote Sensing roles
+Earth Observation research & consulting
+Spatial data science collaborations
 - Email: derrickipruto@gmail.com
 - GitHub: https://github.com/Derrickipruto7
 
