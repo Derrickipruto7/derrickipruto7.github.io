@@ -1,54 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-  
-  <p align="center">
-  <img src="assets/gifs/urban-analysis.gif" width="700"/>
- 
-</p>
   <meta charset="UTF-8">
-  <title>Skills | Derrick Kipruto</title>
-  <link rel="stylesheet" href="../styles/main.css">
+  <title>Projects | Derrick Totoitich</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- W3.CSS -->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body>
 
-<header>
-  <h1>Skills & Expertise</h1>
-  <nav>
-    <a href="../index.html">Home</a>
-    <a href="projects.html">Projects</a>
-    <a href="education.html">Education</a>
-    <a href="contact.html">Contact</a>
-  </nav>
-</header>
+<body class="w3-black">
 
-<section>
-  <h2>GIS & Remote Sensing</h2>
+<!-- Sidebar -->
+<nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center w3-black"
+     style="width:120px; height:100vh; position:fixed;">
 
-  <ul>
-    <li>Spatial Analysis & Geoprocessing</li>
-    <li>Land Use / Land Cover Classification</li>
-    <li>Satellite Image Processing (Optical & Radar)</li>
-    <li>Cartography & Map Design</li>
-  </ul>
+  <img src="/w3images/avatar_smoke.jpg" style="width:100%" alt="Avatar">
 
-  <h2>Earth Observation & Data Platforms</h2>
-  <ul>
-    <li>Google Earth Engine</li>
-    <li>ArcGIS Pro & QGIS</li>
-    <li>Multi-temporal EO Analysis</li>
-    <li>Change Detection & Time Series</li>
-  </ul>
+  <a href="../index.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-home w3-xxlarge"></i>
+    <p>HOME</p>
+  </a>
 
-  <h2>Programming & Data Science</h2>
-  <ul>
-    <li>Python (GeoPandas, Rasterio, NumPy)</li>
-    <li>R for Spatial Analysis</li>
-    <li>Machine Learning for Spatial Data</li>
-    <li>Geospatial Automation</li>
-  </ul>
-</section>
+  <a href="projects.html" class="w3-bar-item w3-button w3-padding-large w3-black">
+    <i class="fa fa-folder w3-xxlarge"></i>
+    <p>PROJECTS</p>
+  </a>
+
+  <a href="education.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-graduation-cap w3-xxlarge"></i>
+    <p>EDUCATION</p>
+  </a>
+
+  <a href="skills.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-cogs w3-xxlarge"></i>
+    <p>SKILLS</p>
+  </a>
+
+  <a href="contact.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-envelope w3-xxlarge"></i>
+    <p>CONTACT</p>
+  </a>
+</nav>
+
+<!-- Mobile Navbar -->
+<div class="w3-top w3-hide-large w3-hide-medium">
+  <div class="w3-bar w3-black w3-center w3-small">
+    <a href="../index.html" class="w3-bar-item w3-button">HOME</a>
+    <a href="projects.html" class="w3-bar-item w3-button w3-light-grey">PROJECTS</a>
+    <a href="education.html" class="w3-bar-item w3-button">EDUCATION</a>
+    <a href="skills.html" class="w3-bar-item w3-button">SKILLS</a>
+    <a href="contact.html" class="w3-bar-item w3-button">CONTACT</a>
+  </div>
+</div>
+
+<!-- Page Content -->
+<div class="w3-padding-large" id="main" style="margin-left:120px">
+
+  <!-- Page Header -->
+  <header class="w3-container w3-padding-32 w3-center">
+    <h1 class="w3-xxxlarge">Skills & Expertise</h1>
+    <p class="w3-text-grey">Selected GIS, Remote Sensing & Spatial Analysis Work</p>
+  </header>
+
+  <!-- Projects Section -->
+  <section class="w3-content w3-padding-32" style="max-width:900px">
+
+    <div class="w3-card w3-padding w3-margin-bottom w3-dark-grey">
+      <h3>GIS & Remote Sensing</h3>
+          <p>Spatial Analysis & Geoprocessing</p>
+    <p>Land Use / Land Cover Classification</p>
+    <p>Satellite Image Processing (Optical & Radar)</p>
+    <p>Cartography & Map Design</p>
+    </div>
+
+    <div class="w3-card w3-padding w3-margin-bottom w3-dark-grey">
+       <h3>Earth Observation & Data Platforms</h3>
+         <p>Google Earth Engine</p>
+    <p>ArcGIS Pro & QGIS</p>
+    <p>Multi-temporal EO Analysis</p>
+    <p>Change Detection & Time Series</p>
+    </div>
+
+    <div class="w3-card w3-padding w3-margin-bottom w3-dark-grey">
+        <h3>Programming & Data Science</h3>
+         <p>Python (GeoPandas, Rasterio, NumPy)</p>
+    <p>R for Spatial Analysis</p>
+    <p>Machine Learning for Spatial Data</p>
+    <p>Geospatial Automation</p>
+    </div>
+
+  </section>
+
+</div>
+
+</body>
+</html>
+
 
 <footer>
   <p>© 2026 Derrick Kipruto Totoitich</p>
