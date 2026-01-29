@@ -1,67 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
   <meta charset="UTF-8">
-  <title>Projects | Derrick Kipruto</title>
-  <link rel="stylesheet" href="../styles/main.css">
+  <title>Projects | Derrick Totoitich</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- W3.CSS -->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body>
 
+<body class="w3-black">
 
-  <header class="site-header">
-  <nav class="nav-bar">
-    <a href="../index.html">Home</a>
-    <a href="../pages/projects.html">Projects</a>
-    <a href="../pages/skills.html">Skills</a>
-    <a href="../pages/education.html">Education</a>
-    <a href="../pages/contact.html">Contact</a>
-  </nav>
+<!-- Sidebar -->
+<nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center w3-black"
+     style="width:120px; height:100vh; position:fixed;">
 
+  <img src="/w3images/avatar_smoke.jpg" style="width:100%" alt="Avatar">
 
-<section>
+  <a href="../index.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-home w3-xxlarge"></i>
+    <p>HOME</p>
+  </a>
 
-   <p align="center">
-  <img src="assets/gifs/satellite-scan.gif" alt="LULC Animation" width="100%">
-</p>
-  <h2>Assessing and predicting wheat yields using Dssat
-cropping ststem model in Uasin Gishu County</h2>
-  <p>
-   Assessing and predicting wheat yields using  Machine learning-based cropping model LULC classification using multi-temporal
-    satellite imagery and Google Earth Engine.
-  </p>
-  <ul>
-    <li>Supervised ML models</li>
-    <li>Accuracy assessment</li>
-    <li>Environmental monitoring</li>
-  </ul>
+  <a href="projects.html" class="w3-bar-item w3-button w3-padding-large w3-black">
+    <i class="fa fa-folder w3-xxlarge"></i>
+    <p>PROJECTS</p>
+  </a>
 
-  <h2>Urban Spatial Analysis</h2>
-  <p>
-    GIS-driven urban suitability and land-use analysis for planning
-    and infrastructure development.
-  </p>
+  <a href="education.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-graduation-cap w3-xxlarge"></i>
+    <p>EDUCATION</p>
+  </a>
 
-  <h2>Environmental Monitoring Dashboards</h2>
-  <p>
-    Interactive EO dashboards integrating satellite data, maps,
-    and analytics for decision-makers.
-  </p>
-</section>
+  <a href="skills.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-cogs w3-xxlarge"></i>
+    <p>SKILLS</p>
+  </a>
 
-<footer>
-  <p>© 2026 Derrick Kipruto Totoitich</p>
-</footer>
+  <a href="contact.html" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-envelope w3-xxlarge"></i>
+    <p>CONTACT</p>
+  </a>
+</nav>
+
+<!-- Mobile Navbar -->
+<div class="w3-top w3-hide-large w3-hide-medium">
+  <div class="w3-bar w3-black w3-center w3-small">
+    <a href="../index.html" class="w3-bar-item w3-button">HOME</a>
+    <a href="projects.html" class="w3-bar-item w3-button w3-light-grey">PROJECTS</a>
+    <a href="education.html" class="w3-bar-item w3-button">EDUCATION</a>
+    <a href="skills.html" class="w3-bar-item w3-button">SKILLS</a>
+    <a href="contact.html" class="w3-bar-item w3-button">CONTACT</a>
+  </div>
+</div>
+
+<!-- Page Content -->
+<div class="w3-padding-large" id="main" style="margin-left:120px">
+
+  <!-- Page Header -->
+  <header class="w3-container w3-padding-32 w3-center">
+    <h1 class="w3-xxxlarge">Projects</h1>
+    <p class="w3-text-grey">Selected GIS, Remote Sensing & Spatial Analysis Work</p>
+  </header>
+
+  <!-- Projects Section -->
+  <section class="w3-content w3-padding-32" style="max-width:900px">
+
+    <div class="w3-card w3-padding w3-margin-bottom w3-dark-grey">
+      <h3>Land Use / Land Cover Classification</h3>
+      <p>Satellite-based LULC mapping using Google Earth Engine and Sentinel-2 imagery.</p>
+    </div>
+
+    <div class="w3-card w3-padding w3-margin-bottom w3-dark-grey">
+      <h3>Flood Risk Mapping</h3>
+      <p>Spatial analysis of flood-prone zones using DEMs, rainfall data, and GIS overlays.</p>
+    </div>
+
+    <div class="w3-card w3-padding w3-margin-bottom w3-dark-grey">
+      <h3>Urban Growth Analysis</h3>
+      <p>Multi-temporal satellite imagery analysis to assess urban expansion patterns.</p>
+    </div>
+
+  </section>
+
+</div>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
