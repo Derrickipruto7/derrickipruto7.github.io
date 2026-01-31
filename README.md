@@ -1,4 +1,4 @@
-# Derrick Kipruto Totoitich
+# Derrick Kipruto Toroitich
 
 **GIS • Remote Sensing • Earth Observation • Spatial Data Science**
 
